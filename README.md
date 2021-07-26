@@ -61,6 +61,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Feature Flippers and A/B Testing](#feature-flippers-and-ab-testing)
   * [File Upload](#file-upload)
   * [File System Listener](#file-system-listener)
+  * [Fintech](#fintech)
   * [Form Builder](#form-builder)
   * [Game Development and Graphics](#game-development-and-graphics)
   * [Gem Generators](#gem-generators)
@@ -643,6 +644,9 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Guard::LiveReload](https://github.com/guard/guard-livereload) - Automatically reload your browser when 'view' files are modified.
 * [Listen](https://github.com/guard/listen) - The Listen gem listens to file modifications and notifies you about the changes.
 * [Rerun](https://github.com/alexch/rerun) - Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.
+
+## Fintech
+* [Technical Analysis](https://github.com/intrinio/technical-analysis) - A Ruby library for performing technical analysis on stock prices and other data sets.
 
 ## Form Builder
 
